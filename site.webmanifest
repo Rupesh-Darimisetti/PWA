@@ -1,0 +1,23 @@
+{
+  "name": "Engineering and Technology",
+  "short_name": "rupeshdarimisetti",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMqyn4w188zp2odsdbKvZBfZB--Y12Z9QON3ZqG81Aad7PWilBMrP_0Q9F1znLSDA6zuS63EdJzFc1Wrnei_ocz7_LLXdpzVa44vyNZ4HB1WRVkwL2pEp028UO4vgxRAM_0ohJKJbNiNyjFXFThQwKX42v9mvyCS6c41U-MYol45QC4wqH-Fzmpy-J/s1600/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose":"any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQgq0Y07a-S2YRQwfE2flm0KLcrhucI90QYAcnJ6DanRyEJFvIEgC016B7erkkJc4zQCuZOnZkcJaaTzT_LfAG3w6NYC7DQTPwC0e6DTwGoNAgYz44pOfdX6VrOfjql-cMqZ3TVyHzoKYJZ9DTfsvWkPyeDjEgIbjN8eU9HLmaSBWvIckHjHWvHoyX/s512/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose":"any maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "prefer_related_applications": false,
+"start_url": "https://rupeshdarimisetti.blogspot.com/"
+}
